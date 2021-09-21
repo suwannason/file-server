@@ -1,0 +1,17 @@
+REACT_APP_ENDPOINT=http://cptsvs531:5000/api-fae-part
+REACT_APP_FILES_PATH=http://cptsvs52t/waste
+REACT_APP_USERFILE=http://cptsvs531:5000/files/wastemanagement
+
+
+REACT_APP_ENDPOINT=http://cptsvs52t:5000/api-fae-part
+REACT_APP_FILES_PATH=http://cptsvs52t/waste-dev
+REACT_APP_USERFILE=http://cptsvs52t:5000/files/wastemanagement
+
+
+
+REACT_APP_ENDPOINT=https://localhost:5001
+REACT_APP_FILES_PATH=http://localhost:3000
+
+
+
+002887
